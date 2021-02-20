@@ -37,10 +37,9 @@
 ✔ I’m looking for help for learning **Remote Sensing**<br>
 ✔ I regularly write articles on [GeeksforGeeks](GeeksforGeeks)<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br>
+✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
 
-<h3 align="left"></h3>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages and Tools:***
 <p align="left">
   
