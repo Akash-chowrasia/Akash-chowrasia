@@ -29,25 +29,15 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
-✔ Pronouns: ***He/His*** or ***LeadMaker***😉
-✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**
-✔ I’m currently learning **ReactJS** & **NodeJS**
-✔ I’m looking to collaborate with any **Open - Source contribution**
-✔ I’m looking for help for learning **Remote Sensing**
-✔ I regularly write articles on [GeeksforGeeks](GeeksforGeeks)
-✔
-✔
-✔
-✔
+✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
+✔ I’m currently learning **ReactJS** & **NodeJS**<br>
+✔ I’m looking to collaborate with any **Open - Source contribution**<br>
+✔ I’m looking for help for learning **Remote Sensing**<br>
+✔ I regularly write articles on [GeeksforGeeks](GeeksforGeeks)<br>
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉
+✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*
  
-
-- 💬 Ask me about **Big Data Analysics & Python**
-
-- 📫 How to reach me **chowrasia.akash08@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/aksia/](https://www.linkedin.com/in/aksia/)
-
-- ⚡ Fun fact **I listen music while coading**
 
 
 <h3 align="left">Languages and Tools:</h3>
