@@ -27,17 +27,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-- 🔭 I’m currently working on **Paycron**
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
-- 🌱 I’m currently learning **ReactJS & NodeJS**
-
-- 👯 I’m looking to collaborate on **Delhi Jal Board**
-
-- 🤝 I’m looking for help with **Remote Sensing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Akash-chowrasia](https://github.com/Akash-chowrasia)
-
-- 📝 I regularly write articles on [GeeksforGeeks](GeeksforGeeks)
+✔ Pronouns: ***He/His*** or ***LeadMaker***😉
+✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**
+✔ I’m currently learning **ReactJS** & **NodeJS**
+✔ I’m looking to collaborate with any **Open - Source contribution**
+✔ I’m looking for help for learning **Remote Sensing**
+✔ I regularly write articles on [GeeksforGeeks](GeeksforGeeks)
+✔
+✔
+✔
+✔
+ 
 
 - 💬 Ask me about **Big Data Analysics & Python**
 
