@@ -26,7 +26,6 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
-<hr>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
@@ -37,13 +36,12 @@
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
 ✔ I regularly write articles on [GeeksforGeeks](GeeksforGeeks)<br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br>
  
 
-<hr>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"></h3>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages and Tools:***
 <p align="left">
   
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
@@ -76,7 +74,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
 
 <hr>
-
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
