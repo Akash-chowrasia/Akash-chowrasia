@@ -12,7 +12,7 @@
 <a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a>
  <a href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/akashchowasia08" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/189_Kaggle_logo_logos-512.png" alt="akashchowasia08" height="30" width="40" /></a>
-  <a href="https://gitlab.com/Akashchowrasia" target="_blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseekicon.com%2Ffree-icon%2Fgitlab-icon_6&psig=AOvVaw3UMh7wrJwQi5a7shQe0lA4&ust=1618349630476000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjE86jU-e8CFQAAAAAdAAAAABAT" alt="Akashchowrasia" height="30" width="40" /></a>
+  <a href="https://gitlab.com/Akashchowrasia" target="_blank"><img align="center" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/gitlab-512.png" alt="Akashchowrasia" height="30" width="40" /></a>
 </p>
 </p>
 
