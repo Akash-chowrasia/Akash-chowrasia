@@ -18,7 +18,7 @@
 &nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **My Portfolio** Payment Gateway ****<br>
+✔ I’m currently Developing **My Portfolio** <br>
 ✔ I’m currently learning **openApi Specification** & **azure fundamentals**<br>
 ✔ I'm quite good at **NodeJs**, **ReactJs**, **openApi**, **Next.js**.<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
