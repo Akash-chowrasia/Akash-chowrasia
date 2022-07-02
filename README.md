@@ -15,7 +15,8 @@
   <a href="https://gitlab.com/Akashchowrasia" target="_blank"><img align="center" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/gitlab-512.png" alt="Akashchowrasia" height="30" width="40" /></a>
 </p>
 </p>
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+
+✔ Pronouns: **He/His** or **TeamMaker**😉 <br>
 ✔ I’m currently Developing **My Portfolio** <br>
 ✔ I’m currently learning **openApi Specification** & **azure fundamentals**<br>
 ✔ I'm quite good at **NodeJs**, **ReactJs**, **openApi**, **Next.js**.<br>
