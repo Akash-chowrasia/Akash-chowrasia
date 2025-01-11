@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi, I'm Akash chowrasia</h1>
-<h3 align="center">Software Engineer @ sopra steria | Technical Content Writer @ geeksforgeeks</h3>
+<h3 align="center">Software Engineer @ Infosys</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
@@ -18,10 +18,10 @@
 
 ✔ Pronouns: **He/His** or **TeamMaker**😉 <br>
 ✔ I’m currently Developing **My Portfolio** <br>
-✔ I’m currently learning **openApi Specification** & **azure fundamentals**<br>
-✔ I'm quite good at **NodeJs**, **ReactJs**, **openApi**, **Next.js**.<br>
+✔ I’m currently learning **Appolo GraphQL** & **Nest.js**<br>
+✔ I'm quite good at **NodeJs**, **ReactJs**, **Next.js**.<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Go lang**<br>
+✔ I’m looking for help for learning **React Native**<br>
 ✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
 ✔ I use to write coad on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
 ✔ Have a look over My personal [Portfolio Website](https://akashchowrasia.me)<br>
